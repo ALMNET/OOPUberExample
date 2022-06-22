@@ -1,5 +1,5 @@
-class car:
+class Automobile:
     id        = int
-    licence   = str
+    license   = str
     driver    = str
     Passenger = int
